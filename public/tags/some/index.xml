@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Some on 自我介紹</title>
+    <link>http://localhost:1313/tags/some/</link>
+    <description>Recent content in Some on 自我介紹</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 18 Dec 2023 18:12:51 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/some/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content</title>
+      <link>http://localhost:1313/posts/content/</link>
+      <pubDate>Mon, 18 Dec 2023 18:12:51 +0700</pubDate>
+      <guid>http://localhost:1313/posts/content/</guid>
+      <description>This is a summary.</description>
+    </item>
+  </channel>
+</rss>
